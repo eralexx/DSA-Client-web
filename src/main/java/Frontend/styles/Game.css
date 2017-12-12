@@ -1,0 +1,25 @@
+#player {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0.01em 16px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    padding: 0.01em 16px;
+    border-radius: 16px;
+    border: 3px solid #813609 !important;
+    margin: 0 auto;
+}
+.item-card{
+    width: 160px important!;
+
+}
+span{
+    padding: 20px;
+}
+#game {
+    align: right;
+    display: inline-block;
+    padding: 0.01em 220px;
+}
